@@ -1,0 +1,9 @@
+*.lock
+*.lck
+*.sr.lock
+*.ex.lock
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+__pycache__/

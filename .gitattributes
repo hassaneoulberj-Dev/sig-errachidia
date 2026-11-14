@@ -1,0 +1,4 @@
+data/** filter=lfs diff=lfs merge=lfs -text
+*.mxd binary
+*.jpg binary
+*.png binary

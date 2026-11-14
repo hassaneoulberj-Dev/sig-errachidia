@@ -1,0 +1,107 @@
+[
+  {
+    "broken": false, 
+    "layer": "MNT_Errachidia", 
+    "destination": "data\\dataset_01\\output1", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\DEM\\output1", 
+    "map": "Altitude.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "IQC_final", 
+    "destination": "data\\dataset_02\\IQC_final", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\IQC_new\\IQC_final", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "new_esai2", 
+    "destination": "data\\dataset_03\\new_esai2", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\New_ESAI\\new_esai2", 
+    "map": "Medalus2.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "NVDI_Mai24", 
+    "destination": "data\\dataset_04\\NVDI_Mai24", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\NDVI\\NVDI_Mai24", 
+    "map": "NDVI.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "NDVI_Fev24", 
+    "destination": "data\\dataset_05\\NDVI_Fev24", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\NDVI\\NDVI_Fev24", 
+    "map": "NDVI.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "IQC_Chelsa", 
+    "destination": "data\\dataset_06\\IQC_Chelsa", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\IQC_new\\IQC_Chelsa", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "IQC_reclass", 
+    "destination": "data\\dataset_07\\IQC_reclass", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\New IQC\\IQC_reclass", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "IQC", 
+    "destination": "data\\dataset_08\\IQC", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\New IQC\\IQC", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "Occupation", 
+    "destination": "data\\dataset_09\\Occupation", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Occupation de sol\\Occupation", 
+    "map": "Occupation.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "Reclass_Pente", 
+    "destination": "data\\dataset_10\\Reclass_Pente", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\DEM\\SLOP\\Reclass_Pente", 
+    "map": "Pente.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "sum_prec", 
+    "destination": "data\\dataset_11\\sum_prec", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\SUM_PREC\\sum_prec", 
+    "map": "Prec.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "Ville", 
+    "destination": "data\\dataset_12\\Ville.shp", 
+    "source": "D:\\Projet SIG\\Villes-Draa-Tafilalet\\Ville.shp", 
+    "map": "ZoneEtude.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "Zone_Etude_Finale_UTM", 
+    "destination": "data\\dataset_13\\Zone_Etude_Finale_UTM.shp", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Province Errachidia\\Commune zone\\Zonz\\Zone_Etude_Finale_UTM.shp", 
+    "map": "ZoneEtude.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "Zone_Etude_Finale_UTM", 
+    "destination": "data\\dataset_13\\Zone_Etude_Finale_UTM.shp", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Province Errachidia\\Commune zone\\Zonz\\Zone_Etude_Finale_UTM.shp", 
+    "map": "ZoneEtude.mxd"
+  }, 
+  {
+    "broken": false, 
+    "layer": "prec_annuelle", 
+    "destination": "data\\dataset_14\\prec_annuelle", 
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Prec_Extraxt\\prec_annuelle", 
+    "map": "pricipitation.mxd"
+  }
+]

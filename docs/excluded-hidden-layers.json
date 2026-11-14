@@ -1,0 +1,428 @@
+[
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\New_ESAI\\new_ESAI2", 
+    "reason": "hidden in original MXD", 
+    "layer": "new_ESAI2", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\New_ESAI\\new_esai", 
+    "reason": "hidden in original MXD", 
+    "layer": "new_esai", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\IQC_new\\iqc_resaple", 
+    "reason": "hidden in original MXD", 
+    "layer": "iqc_resaple", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\IQC_new\\iqc_chelsa", 
+    "reason": "hidden in original MXD", 
+    "layer": "iqc_chelsa", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\ESAI_FINAL2", 
+    "reason": "hidden in original MXD", 
+    "layer": "ESAI_FINAL2", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\ESAI_FINAL", 
+    "reason": "hidden in original MXD", 
+    "layer": "ESAI_FINAL", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\ESAI_CLASS", 
+    "reason": "hidden in original MXD", 
+    "layer": "ESAI_CLASS", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\ESAI", 
+    "reason": "hidden in original MXD", 
+    "layer": "ESAI", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\IQC", 
+    "reason": "hidden in original MXD", 
+    "layer": "IQC", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\tif_projeter\\IQG_Extra2", 
+    "reason": "hidden in original MXD", 
+    "layer": "IQG_Extra2", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\tif_projeter\\IQS", 
+    "reason": "hidden in original MXD", 
+    "layer": "IQS", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\tif_projeter\\Reclass_NDVI", 
+    "reason": "hidden in original MXD", 
+    "layer": "IQV", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\tif_projeter\\pente_reclass", 
+    "reason": "hidden in original MXD", 
+    "layer": "pente_reclass", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Indice_Aridit\u00e9_Martonne\\indice_aridit", 
+    "reason": "hidden in original MXD", 
+    "layer": "indice_aridit", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Prec_Extraxt\\Prec_annuelle", 
+    "reason": "hidden in original MXD", 
+    "layer": "Prec_annuelle", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\trag\\Trag_Extract\\Trag_annuelle", 
+    "reason": "hidden in original MXD", 
+    "layer": "Trag_annuelle", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\tif_projeter\\reclass1_Clay", 
+    "reason": "hidden in original MXD", 
+    "layer": "reclass1_Clay", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\tif_projeter\\reclass1_carb", 
+    "reason": "hidden in original MXD", 
+    "layer": "reclass1_carb", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Occupation de sol\\occupation", 
+    "reason": "hidden in original MXD", 
+    "layer": "occupation", 
+    "map": "Medalus.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Copernicus\\Zone 1 27-05-2024\\S2B_MSIL2A_20240527T105619_N0510_R094_T30SUA_20240527T135759.SAFE\\GRANULE\\L2A_T30SUA_A037729_20240527T110430\\IMG_DATA\\R10m\\T30SUA_20240527T105619_B04_10m.jp2", 
+    "reason": "hidden in original MXD", 
+    "layer": "Mai_B04_10m.jp2", 
+    "map": "NDVI.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Copernicus\\Zone 1 27-05-2024\\S2B_MSIL2A_20240527T105619_N0510_R094_T30SUA_20240527T135759.SAFE\\GRANULE\\L2A_T30SUA_A037729_20240527T110430\\IMG_DATA\\R10m\\T30SUA_20240527T105619_B08_10m.jp2", 
+    "reason": "hidden in original MXD", 
+    "layer": "Mai_B08_10m.jp2", 
+    "map": "NDVI.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Copernicus\\Zone 1 07-02-2024\\S2B_MSIL2A_20240207T110129_N0510_R094_T30SUA_20240207T134251.SAFE\\GRANULE\\L2A_T30SUA_A036156_20240207T111012\\IMG_DATA\\R10m\\T30SUA_20240207T110129_B04_10m.jp2", 
+    "reason": "hidden in original MXD", 
+    "layer": "F\u00e9vrier_B04_10m.jp2", 
+    "map": "NDVI.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Copernicus\\Zone 1 07-02-2024\\S2B_MSIL2A_20240207T110129_N0510_R094_T30SUA_20240207T134251.SAFE\\GRANULE\\L2A_T30SUA_A036156_20240207T111012\\IMG_DATA\\R10m\\T30SUA_20240207T110129_B08_10m.jp2", 
+    "reason": "hidden in original MXD", 
+    "layer": "F\u00e9vrier_B08_10m.jp2", 
+    "map": "NDVI.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\01", 
+    "reason": "hidden in original MXD", 
+    "layer": "01", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\02", 
+    "reason": "hidden in original MXD", 
+    "layer": "02", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\03", 
+    "reason": "hidden in original MXD", 
+    "layer": "03", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\04", 
+    "reason": "hidden in original MXD", 
+    "layer": "04", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\05", 
+    "reason": "hidden in original MXD", 
+    "layer": "05", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\06", 
+    "reason": "hidden in original MXD", 
+    "layer": "06", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\07", 
+    "reason": "hidden in original MXD", 
+    "layer": "07", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\08", 
+    "reason": "hidden in original MXD", 
+    "layer": "08", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\09", 
+    "reason": "hidden in original MXD", 
+    "layer": "09", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\10", 
+    "reason": "hidden in original MXD", 
+    "layer": "10", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\11", 
+    "reason": "hidden in original MXD", 
+    "layer": "11", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\prec_projeter\\12", 
+    "reason": "hidden in original MXD", 
+    "layer": "12", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\12_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "12_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\11_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "11_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\10_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "10_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\09_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "09_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\08_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "08_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\07_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "07_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\06_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "06_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\05_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "05_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\04_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "04_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\03_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "03_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\02_celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "02_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\tas_Celsius\\01_Celsius", 
+    "reason": "hidden in original MXD", 
+    "layer": "01_celsius", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract\\Tavg_annuelle\\MEAN_Tavg", 
+    "reason": "hidden in original MXD", 
+    "layer": "MEAN_Tavg", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\12 mois\\Extract prec\\SUM_PREC\\SUM_PREC", 
+    "reason": "hidden in original MXD", 
+    "layer": "SUM_PREC", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Occupation de sol\\occupation", 
+    "reason": "hidden in original MXD", 
+    "layer": "occupation", 
+    "map": "New_IQC.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Province Errachidia\\Commune zone\\Zonz\\Zone_Etude_Finale_UTM.shp", 
+    "reason": "hidden in original MXD", 
+    "layer": "Zone_Etude_Finale_UTM", 
+    "map": "Occupation.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Occupation de sol\\eesa\\WORLDCOVER\\ESA_WORLDCOVER_10M_2021_V200\\MAP\\ESA_WorldCover_10m_2021_v200_N30W006_Map\\ESA_WorldCover_10m_2021_v200_N30W006_Map.tif", 
+    "reason": "hidden in original MXD", 
+    "layer": "ESA_WorldCover_10m_2021_v200_N30W006_Map.tif", 
+    "map": "Occupation.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\DEM\\SLOP\\pente", 
+    "reason": "hidden in original MXD", 
+    "layer": "Pente_Errachidia", 
+    "map": "Pente.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\DEM\\output1", 
+    "reason": "hidden in original MXD", 
+    "layer": "output1", 
+    "map": "Pente.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\Prec_Extract", 
+    "reason": "hidden in original MXD", 
+    "layer": "Prec_Extract", 
+    "map": "Prec.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\Occupation de sol\\occupation", 
+    "reason": "hidden in original MXD", 
+    "layer": "occupation", 
+    "map": "Prec.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\MEDALUS\\IQC\\Prec\\Autre dataset\\CHELSA_bio12_1981-2010_V.2.1.tif", 
+    "reason": "hidden in original MXD", 
+    "layer": "CHELSA_bio12_1981-2010_V.2.1.tif", 
+    "map": "Prec.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favo10c", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favo10c", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favor10", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favor10", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favor9re", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favor9re", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favor9", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favor9", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favor8", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favor8", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favor7", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favor7", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favor1", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favor1", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Les zones favorable\\zone_favor", 
+    "reason": "hidden in original MXD", 
+    "layer": "zone_favor", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Resampled layers\\Occupsol_WO2", 
+    "reason": "hidden in original MXD", 
+    "layer": "Occupsol_WO2", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Resampled layers\\Altitude_WO2", 
+    "reason": "hidden in original MXD", 
+    "layer": "Altitude_WO2", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Resampled layers\\prec_WO2", 
+    "reason": "hidden in original MXD", 
+    "layer": "prec_WO2", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Resampled layers\\pente_WO2", 
+    "reason": "hidden in original MXD", 
+    "layer": "pente_WO2", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\Resampled layers\\NDVI_WO1", 
+    "reason": "hidden in original MXD", 
+    "layer": "NDVI_WO1", 
+    "map": "Zone_Favorable.mxd"
+  }, 
+  {
+    "source": "D:\\Projet SIG\\Donn\u00e9es\\FINAL_CARTE\\ESAI_WO", 
+    "reason": "hidden in original MXD", 
+    "layer": "ESAI_WO", 
+    "map": "Zone_Favorable.mxd"
+  }
+]
