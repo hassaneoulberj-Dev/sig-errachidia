@@ -63,3 +63,8 @@ Les données et fonds cartographiques conservent les conditions de leurs fournis
 Les données nécessitent **Git LFS** : deux fichiers raster dépassent 100 Mo. Avant le premier `git add`, installer Git LFS puis exécuter `git lfs install` dans le dépôt. Le fichier `.gitattributes` suit tout le dossier `data/` avec LFS. Vérifier l’espace LFS disponible sur votre compte avant l’envoi.
 
 Pour télécharger les données après clonage : `git lfs pull`. Le téléchargement ZIP proposé par GitHub peut contenir des pointeurs LFS plutôt que les données selon la configuration du dépôt.
+
+
+## Contributions
+
+Pour signaler un problème ou proposer une amélioration, consulter le [guide de contribution](CONTRIBUTING.md), qui détaille les vérifications propres à ce projet.
